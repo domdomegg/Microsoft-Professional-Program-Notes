@@ -6,6 +6,10 @@ Feel free to submit pull requests to fix mistakes or add other courses.
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
+## Course list
+
+* [Logic and Computational Thinking (DEV262x)](Logic%20and%20Computational%20Thinking.md)
+
 ## Legal stuff
 
 These notes are not endorsed by Microsoft.
