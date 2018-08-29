@@ -11,7 +11,7 @@ The Jupyter Notebooks is a web app that allows you to write and run Python code 
 print("Hello World!")
 
 # A string is a sequence of characters
-string1 = 'as long as they match, single'
+string1 = 'as long as they match, single or'
 string2 = "double quotes work to make strings"
 
 # Integers are whole numbers
@@ -164,7 +164,7 @@ while True:
         print("Access granted")
         # Break
         break
-    else
+    else:
         print("Acess denied")
 
 # Incrementing and decrementing variables
