@@ -9,7 +9,7 @@ Feel free to submit pull requests to fix mistakes or add other courses.
 ## Course list
 
 * [Logic and Computational Thinking (DEV262x)](Logic%20and%20Computational%20Thinking.md)
-* [Introduction to Python: Absolute Beginner (DEV236x)](Introduction%20to%20Python:%20Absolute%20Beginner.md)
+* [Introduction to Python: Absolute Beginner (DEV236x)](Introduction%20to%20Python%3A%20Absolute%20Beginner.md)
 
 ## Legal stuff
 
